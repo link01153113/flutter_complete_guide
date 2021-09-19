@@ -27,7 +27,7 @@ class MyHomePage extends StatelessWidget {
               width: 100,
               child: Text('CHART!'),
             ),
-            elevation: 5,
+            elevation: 3,
           ),
           Card(
             child: Text('LIST OF TX'),
