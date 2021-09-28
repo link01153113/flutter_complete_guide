@@ -1,8 +1,8 @@
-# flutter_complete_guide
+# flutter_expenses_app
 
 A new Flutter project.
 
-## Getting Started
+## Personal Expenses
 
 This project is a practice of making a expense app.
 
