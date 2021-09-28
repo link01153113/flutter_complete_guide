@@ -15,16 +15,20 @@ This project is a practice of making a expense app.
 
 ## iOS Display Overview
 ### Initial Look
-![](/images/1.png)
+<img src="images/1.png" width="500">
+
 ### Add Transaction Look
-![](/images/2.png)
+<img src="images/2.png" width="500">
+
 ### With Transaction Look
-![](/images/3.png)
+<img src="images/3.png" width="500">
 
 ## Andriod Display Overview
 ### Initial Look
-![](/images/4.png)
+<img src="images/4.png" width="500">
+
 ### Add Transaction Look
-![](/images/5.png)
+<img src="images/5.png" width="500">
+
 ### With Transaction Look
-![](/images/6.png)
+<img src="images/6.png" width="500">
